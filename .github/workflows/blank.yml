@@ -1,0 +1,19 @@
+name: 501270358020849674
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name:LumaBot
+      Luma!Help: 
+
+Ce bot est conçu pour écouter toute la Radio de France (En espérant avant fin 2020)tels que FunRadio,NRJ,Rap-Génération,ect... Voici les commandes: Luma!NRJ Luma!Génération Luma!FunRadio Luma!ListRadio Luma!StopRadio Ce bot est aussi conçu pour jouer à Luma Galaxie,un jeux de combat de qualification aléatoire de tout les membres du serveurs,ou voir même de tout membre de Discord.. Les Créateurs du bot doivent mettre "Luma!Events pour créer le concours.Si vous voulez que tout le monde de votre serveur joue d'un seul coup,mettez "Luma!GoldEvent Il faut d'abord s'inscrire en mettant "Luma!inscription" puis vous participez au jeux de l'Administrateur en mettant Luma!GoEvent.Vous demandez d'abord quel est l'évent mise aux jeux... A chaque Mois,un GRAND CONCOURS commencera toujours le 1er jour du mois et fini le 13ème jour du mois (Sauf si Empêchement).Celui qui gagne pourra être qualifié en 1/4 de Final pour la fin de l'an et celui qui le quard de Final gagnera Discord Nitro! Un autre concours seras aussi Dispo mais il serat que le 1er jour du VENDREDI 13!Les 4 gagnant seront qualifié pour le QUART DE FINAL. Commande pour les Administrateurs et membres pour le jeux: Un GEANT CONCOURS du meilleurs serveurs de Discord serait disponible dès que le bot marchera TRES BIEN! Luma!inscription Luma!Event Créer le Concours dans votre serveur Luma!GoldEvent Que tout le monde participe à votre jeux. Luma!DiamondEvent Le Géant Concours du Bot:Seul 12 personne seront qualifié Luma!ParticipeWord (Admin) Tout les gens de votre serveur Participe aux GRAND CONCOURS Luma!13 Les membres jouent aux concours du 1er Vendredi 13.Seule 4 personnes seront qualifiés!! Pour la modération: Luma!Clean (1 à 100) Efface les messages de 1 à 100 Luma!BigClean #Salon :Efface tout les messages du salon Luma!ChannelYoutube Choisissez la chaine youtube que vous voulez puis le salon: II-CZK-II #Youtube Luma!ChannelTwitch Choisissez la chaine Twitch que vous voulez puis le salon: II-CZK-II #Twitch Luma!CleanChannelYt Effacé la chaîne YT que vous avez mis sur le salon. Luma!CleanChannelTwitch Effacé la chaîne Twitch que vous avez mis sur le salon. Luma!Mute Mutez la personnes ayant fait des bêtises Luma!Banne Bannez la personne ayant mérité Luma!Exclu Excluez la personne ayant mérité Des mises à jour de ce bot seront effectué souvemment. Si besoin d'aide:ezioflamer@gmail.com
+ 
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
